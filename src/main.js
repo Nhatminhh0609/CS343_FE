@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
-import Default from './Layout/Wrapper/index.vue'
+import Default from './layout/wrapper/MasterRocker.vue'
 const app = createApp(App)
 
 app.use(router)

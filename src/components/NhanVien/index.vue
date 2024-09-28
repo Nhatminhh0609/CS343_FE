@@ -20,7 +20,7 @@
                                 <th colspan="100%">
                                     <div class="input-group mb-3">
                                         <input type="text" class="form-control" placeholder="Nhập thông tin cần tìm">
-                                        <button class="btn btn-primary" v-on:click="searchNhanVien()">
+                                        <button class="btn btn-primary">
                                             <i class="fa-solid fa-magnifying-glass"></i>
                                         </button>
                                     </div>
